@@ -39,6 +39,5 @@ This project is designed for educational purposes and helps in understanding:
 - Heuristic-based search
 - Grid-based problem solving
 
-## Status
-
-Work in progress — further improvements and features will be added.
+## Author
+**Eng/ Islam Bassem**
